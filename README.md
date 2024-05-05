@@ -1,11 +1,7 @@
-<img src="https://github.com/gharat-purva/gharat-purva/assets/143778356/8cf7f43d-85d1-4c1b-b70b-a84e78e7a7a3" alt="GIF" height="150">This is Purva Gharat
+<img src="https://github.com/gharat-purva/gharat-purva/assets/143778356/8cf7f43d-85d1-4c1b-b70b-a84e78e7a7a3" alt="GIF" height="150">
+I am Purva Gharat <br />
 
-### ✉️ Find me on
-
-<p align="center">
- <a href="https://www.linkedin.com/in/purvagharat/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:purva600@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gharat-purva&theme=ambient_gradient&show_icons=true)](https://git.io/streak-stats)
 
 <br />
 
