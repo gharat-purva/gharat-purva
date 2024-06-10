@@ -1,11 +1,13 @@
 <img src="https://github.com/gharat-purva/gharat-purva/assets/143778356/1e0cb207-832c-461f-8313-50cce1e48d44" alt="GIF" height="35">
-<br /><b><i>  
   
-## 📔 I am Purva Gharat 
-</i></b><br />
-<div align="left">
+##     I am Purva Gharat 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gharat-purva&theme=catppuccin_latte&show_icons=true)](https://git.io/streak-stats)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gharat-purva&theme=transparent&show_icons=true)](https://git.io/streak-stats)
+<a href="https://github.com/gharat-purva/convoychat">
+  <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=gharat-purva&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
 </div>
 
 ### 🔗 Languages and Tools
@@ -23,7 +25,7 @@
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gharat-purva&theme=midnight-purple)
+
 
 </div>
 <!---
