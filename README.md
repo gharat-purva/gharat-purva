@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gharat-purva&theme=transparent&show_icons=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gharat-purva&exclude_days=Sun%2CSat&theme=transparent&show_icons=true)](https://git.io/streak-stats)
 <a href="https://github.com/gharat-purva/convoychat">
   <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=gharat-purva&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
